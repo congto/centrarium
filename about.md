@@ -19,7 +19,6 @@ permalink: /about/
 - Trước 2011: IT 
 
 ### Các nơi mà tôi có mặt
-- [Email cá nhân][congto-email]
 - [Github cá nhân][congto-git]
 - [Blog cá nhân][congto-blog]
 - [Facebook cá nhân][congto-facebook]
