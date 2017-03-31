@@ -196,4 +196,4 @@ protocols:
 
     os_repo: "https://github.com/congto/congto.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:congto/congto.github.io"
+    os_src: "git@github.com:congto/congto.github.io.git"
