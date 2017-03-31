@@ -9,17 +9,18 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Tô Tướng Công
+subtitle: "Nơi ghi chép những điều muốn nhắn nhủ"
+email: tcvn1985@gmail.com
+name: Công TÔ
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Trang chia sẻ các ghi chép để lưu lại sau này - biết đâu cần.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://congto.hocchudong.com" # the base hostname & protocol for your site
+enforce_ssl: congto.hocchudong.com
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -41,7 +42,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: congto
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -72,29 +73,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: tothanhcong
+    url: https://twitter.com/tothanhcong
+    desc: Cập nhật tin tức trên Twitter của tôi
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: tcvn1985
     url:
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: congto
+    url: https://github.com/congto
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Cong TO
+    url: https://www.linkedin.com/in/c%C3%B4ng-t%C3%B4-82008393/
     desc: Connect with me on LinkedIn
     share: true
 
