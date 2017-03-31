@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/congto.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/congto.png" title="Profile Picture" class="profile">
 
 ### Tên đầy đủ: TÔ THÀNH CÔNG. 
 - Thích tìm hiểu về mã nguồn mở.
