@@ -10,7 +10,7 @@ permalink: /about/
 - Thích tìm hiểu về mã nguồn mở.
 - Đang làm việc với OpenStack.
 - Tìm hiểu về các ứng dụng monitor & logging
-- Sở thích khác: Chèo - Lượn - Thuốc lào
+- Sở thích khác: Gói thuốc lào - mào đầu câu chuyện
 
 ### Thông tin khác: 
 - Hiện nay: VNPT-DATA
