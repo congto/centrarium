@@ -4,14 +4,29 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/congto.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+### Tên đầy đủ: TÔ THÀNH CÔNG. 
+- Thích tìm hiểu về mã nguồn mở.
+- Đang làm việc với OpenStack.
+- Tìm hiểu về các ứng dụng monitor & logging
+- Sở thích khác: Chèo - Lượn - Thuốc lào
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+### Thông tin khác: 
+- Hiện nay: VNPT-DATA
+- 2014 - 2015: VDCIT (nay là VNPT-SOFT)
+- 2011 - 2013: Giải nghệ
+- Trước 2011: IT 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Các nơi mà tôi có mặt
+- [Email cá nhân][congto-email]
+- [Github cá nhân][congto-git]
+- [Blog cá nhân][congto-blog]
+- [Facebook cá nhân][congto-facebook]
+- [Nhóm vietstack][congto-vietstack]
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+
+[congto-git]: https://github.com/congto
+[congto-blog]: http://congto.hocchudong.com
+[congto-facebook]: https://facebook.com/tcvn1985
+[congto-vietstack]: https://facebook.com/groups/vietstack
