@@ -14,7 +14,7 @@ subtitle: "Nơi ghi chép những điều muốn nhắn nhủ"
 email: tcvn1985@gmail.com
 name: Công TÔ
 description: >
-  Trang chia sẻ các ghi chép để lưu lại sau này - biết đâu cần.
+  Trang này dùng để chia sẻ các ghi chép các mảnh nhớ nhỏ - để mong muốn ghép lại thành mảnh giấy có thể dùng được.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -90,7 +90,7 @@ social:
     username: congto
     url: https://github.com/congto
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
