@@ -63,13 +63,13 @@
   <meta name="twitter:url" content="{{ site.url }}">
   {% endif %}
 
-  {% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %}
+   <!--{% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %}-->
   <!-- Open Source Protocol -->
   <link rel="profile" href="http://osprotocol.com" />
-  <meta property="os:repo" content="{{ protocols.os_repo }}" />
-  <meta property="os:rcs_type" content="{{ protocols.os_rcs_type }}" />
-  <meta property="os:src" content="{{ protocols.os_src }}" />
-  {% endif %}
+  <meta property="os:repo" content="https://github.com/congto/congto.github.io" />
+  <meta property="os:rcs_type" content="git" />
+  <meta property="os:src" content="git@github.com:congto/congto.github.io.git" />
+  <!--{% endif %} -->
 
   <!-- Site styles -->
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
