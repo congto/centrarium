@@ -22,10 +22,12 @@ permalink: /about/
 - [Github cá nhân][congto-git]
 - [Blog cá nhân][congto-blog]
 - [Facebook cá nhân][congto-facebook]
+- [Github học chủ động][hocchudong-git]
 - [Nhóm vietstack][congto-vietstack]
 
 
 [congto-git]: https://github.com/congto
+[hocchudong-git]: https://github.com/hocchudong
 [congto-blog]: http://congto.hocchudong.com
 [congto-facebook]: https://facebook.com/tcvn1985
 [congto-vietstack]: https://facebook.com/groups/vietstack
