@@ -8,7 +8,7 @@ tags:	congto
 cover:  "/assets/instacode.png"
 ---
 
-<h3>Đối với tôi, viết lách là một sở thích</h3>
+>Đối với tôi, viết lách là một sở thích
 
 Ngày hôm nay, tôi tạo ra blog này để ghi chép lại những điều muốn nhắn nhủ - nếu mai này có đọc lại thì cũng là niềm vui sau này.
 
