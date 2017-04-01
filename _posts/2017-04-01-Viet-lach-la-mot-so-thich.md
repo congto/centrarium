@@ -28,11 +28,11 @@ Tất nhiên, nếu trong các câu chuyện tôi kể hoặc ghi chép lại s�
 
 Sơ bộ bài này là để tôi ghi chép nhanh về ý tưởng và hiện thực hóa một sở thích (sở thích viết lách) của tôi từ rất lâu rồi. Ngày mà blog này được chính thức bắt đầu sử dụng là ngày 01-04-2017.
 
-***P/S***: Tôi lấy địa chỉ (tên của website) là [congto-hocchudong] để làm nơi ghi chép, [hocchudong] là nhóm do chính tôi tạo ra. Nếu muốn liên lạc với tôi về những gì liên quan tới ghi chép này thì bạn có thể xem thông tin ở đây [lienlac]
+***P/S***: Tôi lấy địa chỉ (tên của website) là [congto.hocchudong.com] để làm nơi ghi chép, [hocchudong.com] là nhóm do chính tôi tạo ra. Nếu muốn liên lạc với tôi về những gì liên quan tới ghi chép này thì bạn có thể xem thông tin ở đây: [thông tin liên lạc]
     
 
 *Nơi tôi viết - 01.04.2017*
 
-[lienlac]: https://congto.hocchudong.com/about/
-[hocchudong]: https://congto.hocchudong.com
-[congto-hocchudong]: https://congto.hocchudong.com
+[thông tin liên lạc]: https://congto.hocchudong.com/about/
+[hocchudong.com]: https://congto.hocchudong.com
+[congto.hocchudong.com]: https://congto.hocchudong.com
