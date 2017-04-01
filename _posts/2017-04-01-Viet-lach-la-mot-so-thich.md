@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Nơi ghi chép của tôi- Blog Công TÔ"
+title:  "Viết lách là một sở thích"
 date:   2017-04-01 15:00:01
 author: Công TÔ
 categories: Life
 tags:	congto
 cover:  "/assets/instacode.png"
 ---
+
+Đối với tôi, viết lách là một sở thích.
 
 Ngày hôm nay, tôi tạo ra blog này để ghi chép lại những điều muốn nhắn nhủ - nếu mai này có đọc lại thì cũng là niềm vui sau này.
 
