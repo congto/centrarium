@@ -8,7 +8,7 @@ tags:	congto
 cover:  "/assets/instacode.png"
 ---
 
->Đối với tôi, viết lách là một sở thích
+> *Đối với tôi, viết lách là một sở thích*
 
 Ngày hôm nay, tôi tạo ra blog này để ghi chép lại những điều muốn nhắn nhủ - nếu mai này có đọc lại thì cũng là niềm vui sau này.
 
@@ -28,7 +28,11 @@ Tất nhiên, nếu trong các câu chuyện tôi kể hoặc ghi chép lại s�
 
 Sơ bộ bài này là để tôi ghi chép nhanh về ý tưởng và hiện thực hóa một sở thích (sở thích viết lách) của tôi từ rất lâu rồi. Ngày mà blog này được chính thức bắt đầu sử dụng là ngày 01-04-2017.
 
-`P/S:` Tôi lấy địa chỉ (tên của website) là `https://congto.hocchudong.com` để làm nơi ghi chép, hocchudong.com là nhóm do chính tôi tạo ra.
+***P/S***: Tôi lấy địa chỉ (tên của website) là [congto-hocchudong] để làm nơi ghi chép, [hocchudong] là nhóm do chính tôi tạo ra. Nếu muốn liên lạc với tôi về những gì liên quan tới ghi chép này thì bạn có thể xem thông tin ở đây [lienlac]
     
 
-`Nơi tôi viết - 01.04.2017`
+*Nơi tôi viết - 01.04.2017*
+
+[lienlac]: https://congto.hocchudong.com/about/
+[hocchudong]: https://congto.hocchudong.com
+[congto-hocchudong]: https://congto.hocchudong.com
